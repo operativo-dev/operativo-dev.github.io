@@ -28758,5 +28758,21 @@
     "tipo": "AVISO DE PAGO",
     "mes": "",
     "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "ORDENES DE SUSPENSION 4",
+    "realizo": "ARIADNA",
+    "tipo": "SUSPENSION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "NOTIFICACION POR FALTA DE CONTRATO 2",
+    "realizo": "ARIADNA",
+    "tipo": "SUSPENSION",
+    "mes": "",
+    "semana": ""
   }
 ]
