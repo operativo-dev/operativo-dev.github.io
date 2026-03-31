@@ -28966,5 +28966,485 @@
     "tipo": "NUEVO CONTRATO",
     "mes": "",
     "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 4",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERCIVIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "CAMBIO DE LLAVE DE BANQUETA 1",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "RECONEXION 3",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "LISTA DE MATERIALES 1",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "SUSPENSION 1",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SUSPENSION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "REPARACION DE FUGA 2",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "INSTALACION DE MEDIDOR DE PRUEBA 1",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "RECONEXION 12",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "REPARACION DE FUGA 1",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "RECONEXION 7",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-25",
+    "servicio": "REPARACION DE FUGA 1",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "SERCIVIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 1",
+    "realizo": "MATEO E IVAN",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "MOVIMIENTO DE CUADRO 1",
+    "realizo": "MATEO E IVAN",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "RECONEXION 12",
+    "realizo": "MATEO E IVAN",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "SUSPENSION 3",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SUSPENSION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "VERIFICACION POR CONSUMO ELEVADO 4",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "NOTIFICACION POR FALTA DE CONTRATO 2",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SUSPENSION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "VERIFICACION POR CONSUMO ELEVADO 1",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 1",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "MOVIMIENTO DE CUADRO 1",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "LISTA DE MATERIAL 1",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "REPARACION DE FUGA 1",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "REPARACION DE FUGA 1",
+    "realizo": "DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "VERIFICACION POR FALTA 2",
+    "realizo": "DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "VERIFICACION DE FUNCION DE MEDIDOR 2",
+    "realizo": "DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "VERIFICACION POR CONSUMOS ELEVADOS 3",
+    "realizo": "DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "VERIFICACION POR CAMBIO DE TARIFA 2",
+    "realizo": "DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "RECONEXION 1",
+    "realizo": "DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "VERIFICACION POR CONSUMOS ELEVADOS 3",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "REPARACION DE FUGA 5",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "RECONEXION 5",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-26",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 4",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "RECONEXION 9",
+    "realizo": "MATEO E IVAN",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "REPARACION DE FUGA 6",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 1",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 2",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "RECONEXION 2",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "VERIFICACION POR FALTA DE AGUA 2",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "REPARACION DE FUGA 1",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 1",
+    "realizo": "OSCAR Y ANGEL",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "REPARACION DE FUGA 4 ",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "RECONEXION 2",
+    "realizo": "ALFOSNO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "CAMBIO DE LLAVE DE BANQUETA 1",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "RECONEXION 1",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 8",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "REAPARACION DE FUGA 6",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "VERIFICACION DE FUNCION DE MEDIDOR 1",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-27",
+    "servicio": "RECONEXION 9",
+    "realizo": "MATEO E IVAN",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-28",
+    "servicio": "RECONEXION 9",
+    "realizo": "GABRIEL Y JOSE",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-28",
+    "servicio": "RECONEXION 5",
+    "realizo": "MATEO E IVAN",
+    "tipo": "RECONEXION",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-28",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 3",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-28",
+    "servicio": "LISTA DE MATERIAL 1",
+    "realizo": "MIGUEL, DANIEL Y FILI",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-28",
+    "servicio": "REPARACION DE FUGA 3",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-28",
+    "servicio": "VERIFICACION POR FUNCION DE MEDIDOR 1",
+    "realizo": "ALFONSO Y AMANDO",
+    "tipo": "SERVICIO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-28",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "MARY CARMEN",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-28",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "VANESSA PAMELA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-28",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "MARIA ELENA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-28",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "SOFIA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-30",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "VANESSA PAMELA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
+  },
+  {
+    "fecha": "2026-03-30",
+    "servicio": "NUEVO CONTRATO",
+    "realizo": "SOFIA",
+    "tipo": "NUEVO CONTRATO",
+    "mes": "",
+    "semana": ""
   }
 ]
